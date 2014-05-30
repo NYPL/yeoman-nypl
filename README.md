@@ -1,6 +1,6 @@
-# generator-nypl [![Build Status](https://secure.travis-ci.org/rhernand3z/generator-nypl.png?branch=master)](https://travis-ci.org/rhernand3z/generator-nypl)
+# generator-nypl
 
-> [Yeoman](http://yeoman.io) generator
+> [Yeoman](http://yeoman.io) generator for NYPL Web Applications
 
 
 ## Getting Started
@@ -41,6 +41,18 @@ Yeoman has a heart of gold. He's a person with feelings and opinions, but he's v
 
 If you'd like to get to know Yeoman better and meet some of his friends, [Grunt](http://gruntjs.com) and [Bower](http://bower.io), check out the complete [Getting Started Guide](https://github.com/yeoman/yeoman/wiki/Getting-Started).
 
+### Local Usage
+
+Install all npm dependencies, use:
+
+```bash
+$ cd yeoman-nypl
+$ npm link
+```
+
+for local synchronization and testing, have fun!
+
+Author: Rafael H.
 
 ## License
 
